@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Kano</h1>
 <h3 align="center">Software engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidkano" alt="hamidkano" /></a> </p>
+<p align="left"> <a href="https://hamidkano.com"><img src="https://avatars.githubusercontent.com/u/46461177?s=400&u=930b9a7a023beebbc6bda699fe8d90f29793a71e&v=4" alt="hamidkano" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
