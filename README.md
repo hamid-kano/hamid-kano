@@ -1,203 +1,194 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/46461177?s=400&u=930b9a7a023beebbc6bda699fe8d90f29793a71e&v=4" alt="Developer" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hamid%20Kano&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/46461177?s=400&u=930b9a7a023beebbc6bda699fe8d90f29793a71e&v=4" alt="Hamid Kano" width="150" height="150" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=مرحباً!+👋;Full-Stack+Developer;Arabic+%26+English+Expert;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Hamid+Kano+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Software+Engineer+%26+Team+Leader+%F0%9F%92%BB;Building+Digital+Solutions+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 مطور تطبيقات تعليمية متخصص في اللغات 🚀</h3>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamidkano&label=Profile%20views&color=41a0d8&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hamidkano&style=for-the-badge&color=00d4ff" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/hamidkano?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4ff?style=for-the-badge&labelColor=1c1c1c" alt="Focus"/>
 </div>
 
----
-
-## 🎯 من أنا
-
-```javascript
-const developer = {
-    specialization: "Educational Platform Development",
-    focus: ["Arabic", "English", "Language Learning"],
-    expertise: "Bilingual Applications",
-    passion: "Making language learning accessible",
-    
-    currentProject: {
-        name: "Arabic3English Platform",
-        type: "Educational Learning System",
-        technologies: ["Laravel", "React", "TypeScript"]
-    },
-    
-    philosophy: "التعلم يجب أن يكون ممتعاً ومتاحاً للجميع"
-};
-```
-
----
-
-## 🛠️ التقنيات المتخصصة
+<br/>
 
 <div align="center">
-
-### 🌐 تطوير المنصات التعليمية
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🎨 تصميم واجهات المستخدم
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### 🗄️ إدارة البيانات
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![API Design](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidkano&custom_title=Hamid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamidkano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamidkano&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamidkano&theme=tokyonight" alt="hamidkano" />
-</div>
-
----
-
-## 🎓 مشاريع تعليمية متخصصة
-
-<div align="center">
-
-| 📚 **المشروع** | 🎯 **الهدف** | 🛠️ **التقنيات** |
-|:---:|:---:|:---:|
-| **منصة عربي مع إنجليزي** | تعلم الإنجليزية للناطقين بالعربية | Laravel + React + TypeScript |
-| **نظام إدارة الكورسات** | إدارة المحتوى التعليمي | RESTful APIs + MySQL |
-| **واجهات ثنائية اللغة** | تجربة مستخدم محسنة | Tailwind CSS + i18n |
-| **نظام التمارين التفاعلية** | تعلم تفاعلي وممتع | Framer Motion + React |
-
-</div>
-
----
-
-## 🌟 خبرات متخصصة
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 ```typescript
-interface EducationalExpertise {
-  languages: string[];
-  platforms: string[];
-  features: string[];
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  experience: string;
+  currentFocus: string[];
+  techStack: {
+    frontend: string[];
+    backend: string[];
+    database: string[];
+    tools: string[];
+  };
 }
 
-const myExpertise: EducationalExpertise = {
-  languages: [
-    "Arabic (Native)",
-    "English (Advanced)",
-    "Bilingual Content Creation"
+const hamidKano: Developer = {
+  name: "Hamid Kano",
+  role: "Full-Stack Developer & Team Leader",
+  location: "Al-Qamishli, Syria 🇸🇾",
+  experience: "10+ Years",
+  currentFocus: [
+    "Building scalable web applications",
+    "Leading development teams",
+    "Educational platform development",
+    "System architecture design"
   ],
-  platforms: [
-    "Learning Management Systems",
-    "Interactive Exercise Platforms", 
-    "Progress Tracking Systems"
-  ],
-  features: [
-    "Multi-language Support",
-    "Real-time Validation",
-    "Gamification Elements",
-    "Responsive Design"
-  ]
+  techStack: {
+    frontend: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+    backend: ["Laravel", "Node.js", ".NET", "PHP"],
+    database: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Docker", "Git", "Azure", "Firebase"]
+  }
 };
 ```
 
----
-
-## 🎯 معايير التطوير
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
 
 <div align="center">
 
-### 📋 Backend Standards
-- **Laravel Best Practices**
-- **RESTful API Design** 
-- **Bilingual Response Structure**
-- **Validation & Error Handling**
+### 🚀 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,figma" />
+</p>
 
-### 🎨 Frontend Standards  
-- **TypeScript Interfaces**
-- **Component-based Architecture**
-- **RTL/LTR Support**
-- **Accessibility Compliance**
+### ⚡ Backend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,dotnet,php,python,java,express,nestjs" />
+</p>
 
-### 🔄 Integration Standards
-- **Consistent Field Naming**
-- **Synchronized Validation**
-- **Unified Error Messages**
-- **Cross-platform Compatibility**
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,azure,aws,docker" />
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,nginx,webpack,vite" />
+</p>
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamidkano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidkano&theme=radical&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamidkano&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWAON8nhr21vNW/giphy.gif" width="60"> <b>Featured Projects</b>
+
+<div align="center">
+
+| 🎯 **Project** | 📝 **Description** | 🛠️ **Tech Stack** | 🔗 **Links** |
+|:---:|:---:|:---:|:---:|
+| **Arabic3English Platform** | Educational platform for Arabic speakers learning English | Laravel + React + TypeScript | [Demo](#) \| [Code](#) |
+| **E-Learning Management** | Complete LMS with course management and progress tracking | PHP + MySQL + JavaScript | [Demo](#) \| [Code](#) |
+| **Real-time Chat App** | WebSocket-based messaging application | Node.js + Socket.io + React | [Demo](#) \| [Code](#) |
+| **Task Management System** | Agile project management tool | .NET Core + Angular + SQL Server | [Demo](#) \| [Code](#) |
+
+</div>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> <b>Professional Journey</b>
+
+```mermaid
+timeline
+    title 🚀 Career Timeline
+    
+    2011-2017 : 🎓 Bachelor in IT
+              : Aleppo & Tishreen University
+              : Programming & Information Systems
+    
+    2018-2023 : 🎓 Master in Web Science  
+              : Syrian Virtual University
+              : GIS Systems & Data Mining
+    
+    2020-2021 : 👨‍💻 Software Team Leader
+              : Ararat Group for Development
+              : Desktop & Web Applications
+    
+    2021-2022 : 🏗️ Technical Director
+              : Aratech for Software Solutions
+              : System Architecture & Analysis
+    
+    2022-Present : 🚀 Team Leader
+                 : Frontiertech Solutions
+                 : Full-Stack Development & Leadership
+```
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>What I Do</b>
+
+<div align="center">
+
+| 💼 **Service** | 🎯 **Expertise** | 📊 **Impact** |
+|:---:|:---:|:---:|
+| **🚀 Full-Stack Development** | React, Laravel, TypeScript, APIs | 150+ Projects |
+| **👥 Team Leadership** | Agile, Scrum, Mentoring, Code Review | 20+ Developers |
+| **🏗️ System Architecture** | Microservices, Scalable Design, Performance | 100+ Systems |
+| **📚 Educational Platforms** | LMS, Interactive Learning, Gamification | 1000+ Students |
+| **☁️ DevOps & Deployment** | CI/CD, Docker, Cloud Infrastructure | 99.9% Uptime |
+| **🔒 Security & Optimization** | Best Practices, Performance Tuning | 50% Speed Boost |
+
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWAON8nhr21vNW/giphy.gif" width="40"> <b>Let's Connect</b>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hamidkano.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidkano409@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/963932523445)
+
+</div>
+
+## <img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="30"> <b>Fun Facts</b>
+
+<div align="center">
+
+```javascript
+const funFacts = {
+  🌍 languages: ["Arabic (Native)", "English (Fluent)", "JavaScript (Expert)"],
+  ☕ dailyFuel: "Coffee + Code = Magic ✨",
+  🎯 currentGoal: "Building the future of education technology",
+  🎮 whenNotCoding: ["Reading tech blogs", "Learning new frameworks", "Mentoring developers"],
+  💡 motto: "Code with passion, lead with purpose, learn continuously"
+};
+```
 
 </div>
 
 ---
 
-## 🌍 التأثير التعليمي
-
 <div align="center">
-
-| 🎯 **المقياس** | 📊 **القيمة** |
-|:---:|:---:|
-| **المتعلمين المستفيدين** | 1000+ |
-| **الكورسات المطورة** | 50+ |
-| **اللغات المدعومة** | عربي + إنجليزي |
-| **المنصات المطورة** | 5+ |
-| **ساعات المحتوى** | 500+ |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
----
-
-## 🚀 الرؤية المستقبلية
-
 <div align="center">
-
-> *"التعليم هو أقوى سلاح يمكن استخدامه لتغيير العالم"*
-
-**هدفي:**
-- 🌟 **إتاحة التعلم**: جعل تعلم اللغات متاحاً للجميع
-- 🎯 **التفاعلية**: تطوير تجارب تعلم ممتعة وتفاعلية
-- 🌍 **الوصول العالمي**: ربط الثقافات من خلال اللغة
-- 📱 **التقنية الحديثة**: استخدام أحدث التقنيات في التعليم
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+happy+to+connect!+%F0%9F%A4%9D" alt="Closing Message" />
 </div>
 
----
-
-## 🤝 تواصل معي
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-تواصل_معي-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidkano409@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-تابعني-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-أعمالي-41a0d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamidkano.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 مستعد لتطوير منصة تعليمية مبتكرة؟
-
-**دعنا نبني مستقبل التعلم الرقمي معاً!**
-
-[![تواصل الآن](https://img.shields.io/badge/تواصل_الآن-لنبدأ_المشروع-success?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:hamidkano409@gmail.com)
-
----
-
-**⭐ مطور متخصص في المنصات التعليمية ثنائية اللغة**
-
-*"نبني جسور التواصل بين الثقافات من خلال التعلم"*
-
+  <b>⭐ From <a href="https://github.com/hamidkano">Hamid Kano</a> with ❤️</b>
 </div>
