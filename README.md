@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamid-kano&style=for-the-badge&color=00d4ff" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hamid-kano.hamid-kano&left_text=Profile%20Views&left_color=%231c1c1c&right_color=%2300d4ff" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/hamid-kano?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="GitHub followers"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4ff?style=for-the-badge&labelColor=1c1c1c" alt="Focus: Full Stack Development"/>
 </p>
@@ -85,7 +85,11 @@ const hamidKano: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid-kano&custom_title=Hamid's%20GitHub%20Activity&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Hamid's GitHub activity graph" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamid-kano/hamid-kano/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamid-kano/hamid-kano/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/hamid-kano/hamid-kano/output/github-snake-dark.svg" alt="Hamid's GitHub contribution graph" width="100%"/>
+  </picture>
 </div>
 
 ## 🚀 Featured Projects
