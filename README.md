@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/hamidkano.png" alt="Hamid Kano" width="150" height="150"/>
+  <img src="https://avatars.githubusercontent.com/u/46461177?v=4" alt="Hamid Kano" width="150" height="150"/>
 </div>
 
 <div align="center">
@@ -11,8 +11,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamidkano&style=for-the-badge&color=00d4ff" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/hamidkano?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=hamid-kano&style=for-the-badge&color=00d4ff" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/hamid-kano?style=for-the-badge&color=00d4ff&labelColor=1c1c1c" alt="GitHub followers"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d4ff?style=for-the-badge&labelColor=1c1c1c" alt="Focus: Full Stack Development"/>
 </p>
 
@@ -76,16 +76,16 @@ const hamidKano: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamidkano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Hamid's GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=hamidkano&theme=radical&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="Hamid's GitHub streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamid-kano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" alt="Hamid's GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=hamid-kano&theme=radical&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="Hamid's GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidkano&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="Hamid's most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-kano&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="Hamid's most used languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidkano&custom_title=Hamid's%20GitHub%20Activity&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Hamid's GitHub activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamid-kano&custom_title=Hamid's%20GitHub%20Activity&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Hamid's GitHub activity graph" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
